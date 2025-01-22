@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Sarah Butler",
+        "www.theguardian.com"
+    ],
+    "date_download": "2023-02-20 16:17:01+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 15:53:53",
+    "description": "Supermarket’s third pay increase in a year puts it slightly ahead of Aldi and Sainsbury’s",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2023%2Ffeb%2F20%2Ftesco-hands-store-staff-pay-rise-aldi-sainsburys.json",
+    "image_url": "https://i.guim.co.uk/img/media/d591fbb1857046139eb8126f3a238e6df59acad7/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b3738811ee4750098b642011c480fe3",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Tesco is to increase hourly pay for shopfloor staff by 7% to a minimum of £11.02 an hour in its third pay rise in a year amid heavy competition for workers.\nThe increase, which comes in from April, puts the UK’s biggest supermarket slightly ahead of the current best-paying grocers – Aldi and Sainsbury’s – which pay £11 an hour and on track to beat rival Asda, which will raise pay to at least £11 an hour from the same month.\nHowever, Asda currently plans to increase pay to £11.10 an hour from July while Aldi pays for breaks, a benefit worth hundreds of pounds a year.\nTesco said its staff would continue to receive free food and a discount of up to £1,500 a year off their shopping. Workers in London boroughs will receive a higher pay rise – 8.4% or 93p an hour, taking their hourly rate to £11.95.\nRetailers have been forced to introduce multiple pay rises in the past 12 months amid heavy competition for workers and a surge in the cost of living as a result of increases in energy and food bills as well as higher mortgage rates and average rents.\nThe fast-growing discounters are seeking thousands of additional staff this year with Aldi saying last week that it would take on 6,000 more workers in 2023 as part of its planned expansion. The chain added on Monday that it aimed to double the number of stores it has within greater London over the coming years to about 120 if it can find the right sites – a move that would require more than 2,000 extra staff.\nAsda said last week it was investing £141m in raising shop workers’ hourly pay by 10% by July, catapulting the supermarket chain from the back of the pay league to the top.\nWorkers will receive an hourly minimum of £11 from 2 April and then £11.11 from 2 July – up from £10.10 at present.\nDaniel Adams, the national officer of the shop workers’ union Usdaw, which negotiated the pay deal, said it “represents a significant step forward for pay within Tesco retail. It represents a third increase in pay in 10 months and ensures that the business continues to respond positively to the significant pressures our members face.”",
+    "source_domain": "www.theguardian.com",
+    "title": "Tesco hands store staff 7% pay rise",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/business/2023/feb/20/tesco-hands-store-staff-pay-rise-aldi-sainsburys"
+}

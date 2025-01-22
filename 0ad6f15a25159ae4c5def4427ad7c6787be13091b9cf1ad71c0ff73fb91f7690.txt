@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Anita Bhagwandas",
+        "www.theguardian.com",
+        "anita-bhagwandas"
+    ],
+    "date_download": "2023-02-20 08:32:36+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 08:00:31",
+    "description": "Does coating the top and undersides of your lashes give them more volume?",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2023%2Ffeb%2F20%2Fthe-quick-mascara-trick-that-could-save-on-eyelash-extensions.json",
+    "image_url": "https://i.guim.co.uk/img/media/f19721cc356f608745e234816d2f42b079d561c7/0_0_2835_1701/master/2835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=799976b95da72e8f31a9e28a8da4ad81",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The hack\n“Backcombing” your lashes with mascara for the ultimate flutter.\nThe test\nCoined by @scortezzbeauty, this is indeed a particularly smart hack for lash enthusiasts. The term is misleading, though – it’s actually less about backcombing and more about coating the top and undersides of the lashes to give them more volume.\nTaking the wand, I pull my brow upwards, look down and sweep the wand from the root of the lashes to the tips. It’s harder than it looks to get the wand close to the lashline without covering your entire lid in mascara, but I get there. I wait 30 seconds for it to dry a little, and then coat the underside, just using my mascara as I usually would.\nIt does take a little getting used to. On the other eye, I just use the mascara on the underside as I would normally. There is a noticeable difference, which makes sense – the lashes with double the mascara have double the definition and look more like false lashes. But they were heavier – by the end of the day the backcombed ones didn’t hold the lift quite as well.",
+    "source_domain": "www.theguardian.com",
+    "title": "The quick mascara trick that could save on eyelash extensions",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/lifeandstyle/2023/feb/20/the-quick-mascara-trick-that-could-save-on-eyelash-extensions"
+}

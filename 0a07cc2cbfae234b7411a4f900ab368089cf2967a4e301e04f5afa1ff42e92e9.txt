@@ -1,0 +1,19 @@
+{
+    "authors": [
+        "Guardian Staff"
+    ],
+    "date_download": "2023-02-20 18:30:27+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 17:18:51",
+    "description": "Letters: Dr Tony Waterston says milk formula companies’ sponsorship of paediatric associations has a corrupting effect and hinders breastfeeding",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2023%2Ffeb%2F20%2Fadvocating-for-better-breastfeeding-support.json",
+    "image_url": "https://i.guim.co.uk/img/media/aaf1c5469f575822401612b11df2939338dbb952/0_136_5256_3154/master/5256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cae2776dd54eaad28480e3d4b0078499",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Sue Miller (Letters, 13 February) blames male politicians and the profit motive for low breastfeeding rates in the UK, but the Lancet series highlighted in your original article (7 February) shows where the fault lies – in the policies of commercial milk formula companies. I have been appointed by the World Health Organization to tackle the problem of sponsorship of paediatric associations by these companies, and the Lancet series will make it hard to doubt the corrupting effect of such sponsorship.\nA quote from the third article in the series points the finger clearly at the commercial interests that benefit from any failure to support breastfeeding: “The substantial power of corporate and financial actors with interests in expanding commercial milk formula markets, underpinned by global trade, investment, and financial institutions, is deployed in various ways to block more effective commercial milk formula marketing regulation and breastfeeding protection.”\nThe series calls for a broad coalition of advocacy to generate a political commitment for breastfeeding in recognition of its comparable value to vaccination in protecting infant health. Let’s start with more articles in the Guardian on the politics of breastfeeding.\nDr Tony Waterston\nWorld Health Organization",
+    "source_domain": "www.theguardian.com",
+    "title": "Advocating for better breastfeeding support",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/lifeandstyle/2023/feb/20/advocating-for-better-breastfeeding-support"
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Henry Belot",
+        "www.theguardian.com",
+        "henry-belot"
+    ],
+    "date_download": "2023-02-20 04:47:21+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 03:47:33",
+    "description": "The Australian, who was conducting studies in the region, was taken hostage along with three other researchers",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F20%2Faustralian-professor-taken-hostage-in-remote-highlands-of-papua-new-guinea.json",
+    "image_url": "https://i.guim.co.uk/img/media/0c82c374dce037ad28c17bebc13e4f06afa22651/0_153_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6046ed8c7158138901bdcdd8b0e1f9c8",
+    "language": "en",
+    "localpath": null,
+    "maintext": "An Australian professor has been taken hostage in the remote highlands region of Papua New Guinea, along with three other researchers.\nThe professor, who Guardian Australia has chosen not to name, was reportedly confronted by an armed group demanding a ransom payment from the PNG and Australian governments.\nIt is believed the professor was conducting studies near Mount Bosavi with University of Papua New Guinea graduates and guides.\nPNG prime minister James Marape confirmed the reports, saying contact had been made.\n“I want to inform the families of those taken hostage we’ve been at work,” he told reporters in Port Moresby on Monday.\n“Contact has been made with people in the bush through secondary sources.\n“They have indicated ransom. We do not encourage ransom, but we’re treating this very diligently and carefully because life is at risk and life is at stake.”\nAustralia’s Department of Foreign Affairs and Trade (DFAT) has been contacted for comment.\nwith Australian Associated Press",
+    "source_domain": "www.theguardian.com",
+    "title": "Australian professor taken hostage in remote highlands of Papua New Guinea",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/world/2023/feb/20/australian-professor-taken-hostage-in-remote-highlands-of-papua-new-guinea"
+}
