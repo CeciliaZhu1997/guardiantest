@@ -1,0 +1,19 @@
+{
+    "authors": [
+        "Guardian Staff"
+    ],
+    "date_download": "2023-02-20 18:30:46+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 17:18:12",
+    "description": "Brief letters: Man Utd v Oldham Coliseum | Toilet dread | The con in consultant | Middle age | Clement Freud",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fstage%2F2023%2Ffeb%2F20%2Fwhen-football-matters-more-than-theatre.json",
+    "image_url": "https://i.guim.co.uk/img/media/42890d364159e16cc9abb5d9afd1ef27b7ce001a/0_874_6000_3599/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f1798ec36ec7837bdc4d7cc858a2980",
+    "language": "en",
+    "localpath": null,
+    "maintext": "How saddening to see that Oldham-born Sir Jim Ratcliffe seems able to find £5bn or so to buy Manchester United and release it from debt (Sir Jim Ratcliffe’s Manchester United bid would not put debt on club, 16 February), but neither he nor others can find £1.8m to save Oldham Coliseum, in recognition of its arguably wider cultural value.\nJohn Bailey\nSt Albans, Hertfordshire\nAs a former boarding school pupil, I share Adrian Chiles’s toilet dread (Decades on, I am still traumatised by my visit to the school toilets, 15 February). I must add the constipation-inducing “How long are you gonna be in there?” rattle of the door handle to his list of horrors.\nRichard Crosher\nSheffield\nRe your review of The Big Con by Mariana Mazzucato and Rosie Collington (16 February), there is a saying that “a consultant is someone who borrows your watch to tell you the time”. I should know, I’ve been one.\nKen Baldry\nLondon\nThe two writers I think of regarding middle age (Letters, 19 February) are Colin Dexter, who said it’s when you need to sit on the bed to put your trousers on, and Simon Raven, who said: “Middle age is an expensive time. One is old enough to have taste and still young enough to have appetite.”\nAdrian Strangeway\nWellington, New Zealand\nI am reminded of the late Clement Freud, who said that he stopped referring to himself as middle-aged when he realised he didn’t know anybody who was exactly twice as old as him.\nMichael Lloyd\nHatherleigh, Devon",
+    "source_domain": "www.theguardian.com",
+    "title": "When football matters more than theatre",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/stage/2023/feb/20/when-football-matters-more-than-theatre"
+}

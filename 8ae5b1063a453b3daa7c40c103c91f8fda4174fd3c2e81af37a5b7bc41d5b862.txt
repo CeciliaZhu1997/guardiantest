@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Guardian staff",
+        "PA Media"
+    ],
+    "date_download": "2023-02-20 18:30:52+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 18:09:26",
+    "description": "Extinction Rebellion co-founder among four charged after throwing paint over charity buildings in 2020",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2023%2Ffeb%2F20%2Fclimate-activists-cleared-of-one-charge-after-pink-paint-protest-in-london.json",
+    "image_url": "https://i.guim.co.uk/img/media/a7d8249bcc18107471157e683750a650319c2fc9/0_197_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e3716ed7c0d61afd16fc1e09db0cfd3",
+    "language": "en",
+    "localpath": null,
+    "maintext": "The Extinction Rebellion co-founder Roger Hallam has been acquitted of conspiracy to damage property after taking part in a protest that involved throwing pink paint over several charity buildings.\nThe 56-year-old was cleared of the count along with three other protesters involved in demonstrations at the headquarters of Christian Aid, Amnesty International, Greenpeace and Friends of the Earth on 21 July 2020.\nHallam and fellow activists Ryan Simmonds, 36, Holly Brentnall, 31, and Valerie Brown, 70, were each cleared by a jury at Wood Green crown court in north London – though all but Brown still face further allegations.\nHallam previously told the court that the quartet, who are part of the Burning Pink group, targeted the charities because they felt they were not doing enough to tackle climate change.\nAt each charity premises, they asked to hand in a letter before launching the paint and attaching copies of the letters to the buildings.\nNine environmental protesters have been cleared by the same jury of a separate count of conspiracy to damage property. This was in relation to a stunt in which they sprayed pink paint over the headquarters of the Conservative, Labour, Liberal Democrat and Green parties on or before 13 August 2020.\nSimmonds and Brentnall were found not guilty of the charge, along with the Rev Steven Nunn, 58, Diana Warner, 63, Nicola Stickells, 52, Stefan Lindon, 59, Nicholas Cooper, 40, Genevieve Scherer, 76, and Richard Barnard, 50.\nSome of the defendants stifled expressions of joy and embraced as the judge Andrew Holmes told the court: “Those who have been acquitted on the counts they are here for are free to go.”\nHallam, Brentnall, Cooper, Warner and Nunn will return to the same court on Tuesday over further charges relating to protests.",
+    "source_domain": "www.theguardian.com",
+    "title": "Climate activists cleared of one charge after pink paint protest in London",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/uk-news/2023/feb/20/climate-activists-cleared-of-one-charge-after-pink-paint-protest-in-london"
+}

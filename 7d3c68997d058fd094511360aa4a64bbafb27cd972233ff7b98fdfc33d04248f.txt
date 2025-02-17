@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Ben Fisher",
+        "www.theguardian.com",
+        "ben-fisher"
+    ],
+    "date_download": "2023-02-20 20:03:53+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 19:40:50",
+    "description": "The Championship side were charged with multiple counts of misconduct by the EFL, who also concluded ‘a number of individuals’ broke regulations",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Ffootball%2F2023%2Ffeb%2F20%2Fbirmingham-could-face-suspended-points-deduction-after-efl-charges.json",
+    "image_url": "https://i.guim.co.uk/img/media/bbe8417dee03b7caa7a15090e933530a7293e8c6/0_76_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeaf939ec3f55d7ddc944037e0e2f299",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Birmingham City could face a suspended points deduction after being charged with multiple counts of misconduct by the English Football League. The Championship club and “a number of individuals” have been charged with breaching EFL regulations after the league concluded its investigation into an attempted takeover.\nIt is understood the charges refer to a prospective buyer, Paul Richardson, allegedly funding the club without EFL approval. Richardson and the former Barcelona striker Maxi López withdrew their offer in December. The EFL deemed the pair to have been acting with a controlling interest in the club. The charges relate to alleged breaches of the owners’ and directors’ test by Birmingham and individuals who have not been named.\nThe matters will be referred to an independent disciplinary commission. In November Richardson told TalkSport: “There is a procedure in place that we’ve adhered to, which is quite strict. As far as we’re aware, we haven’t made any breaches, either us or the seller.”\nBirmingham, if found guilty, are likely to face a similar punishment to when Rochdale were found to have breached EFL regulations last year. Rochdale were handed a six-point deduction, suspended for two years, for failure to comply with the league’s owners’ and directors’ test.\nBirmingham said in a statement that they acknowledged the decision of the EFL to bring charges and that no further comment would be made. In 2019 Birmingham were docked nine points for breaking the EFL’s spending rules and the following year were found guilty of failing to adhere to the agreed business plan. Birmingham, who are 18th, visit Norwich on Tuesday hoping for a first win in three matches.\nA separate EFL investigation into the “ultimate beneficial ownership” of the club is ongoing. Birmingham have been owned by China-based Birmingham Sports Holdings Limited since 2016 but there are allegations they misled the EFL on who runs the club. Under EFL rules the club are obliged to disclose the identity of any individual controlling more than 10% of the shares.",
+    "source_domain": "www.theguardian.com",
+    "title": "Birmingham could face suspended points deduction after EFL charges",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/football/2023/feb/20/birmingham-could-face-suspended-points-deduction-after-efl-charges"
+}

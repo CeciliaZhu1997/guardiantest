@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Guardian staff",
+        "Azure Prior (Metdesk)"
+    ],
+    "date_download": "2023-02-20 10:53:45+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 10:29:53",
+    "description": "Storm has been upgraded to Very Intense Tropical Cyclone with severe risk of deadly landslides",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2F2023%2Ffeb%2F20%2Fweather-tracker-madagascar-braces-cyclone-freddy-storm-landslides.json",
+    "image_url": "https://i.guim.co.uk/img/media/455216c32f1b00d56ad712e02ba69acd5d6df391/0_192_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ccadacb5e168e8e9fcccd236962b0c5",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Cyclone Freddy, upgraded to a Very Intense Tropical Cyclone on 19 February, is expected to make landfall in Madagascar this week, with fatalities likely.\nThe previous tropical cyclone to affect the country was Cheneso, which struck about a month ago and caused dozens of deaths. Freddy is forecast to inflict much more damage.\nEstimates suggest winds are reaching 140mph, comfortably within category 4 cyclone intensity, or Very Intense Tropical Cyclone status. Despite forecasts of a slight reduction in intensity over the coming days, by the time Freddy makes landfall in Madagascar, gusts are likely to be about 100mph, making it a category 2 cyclone. With destructive winds and significant rainfall of 100-200mm possible, there will also be a severe risk of deadly landslides.\nFreddy has had a long journey across the Indian Ocean over the past few weeks, having developed into a category 1 cyclone on 6 February, just south of Indonesia. Since then it has travelled almost 4,000 miles across the ocean over the past 14 days to where it is now, about 1,000 miles off the east coast of Madagascar.\nOnly two other cyclones are known to have crossed the Indian Ocean: Eline and Hudah, both in 2000. Despite Freddy seeming like a significantly long-lasting cyclone that will have travelled the span of an ocean, it is a long way off from the farthest travelled and longest-lasting .\nIn 1994, Hurricane John, also known as Typhoon John, tracked more than 7,000 miles in 31 days. The hurricane started off in the eastern Pacific and reached so far west that it was also considered a typhoon because it existed in the east and west basins of the Pacific Ocean.\nOnce Freddy makes landfall, its interaction with the elevation of the land and reduction in a moisture source will make it weaken fairly quickly, with winds reducing to about 50mph by the time the cyclone clears the western side of Madagascar.",
+    "source_domain": "www.theguardian.com",
+    "title": "Weather tracker: Madagascar braces for Cyclone Freddy",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/environment/2023/feb/20/weather-tracker-madagascar-braces-cyclone-freddy-storm-landslides"
+}

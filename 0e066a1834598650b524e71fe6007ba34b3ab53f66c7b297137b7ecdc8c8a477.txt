@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Victoria Bekiempis",
+        "www.theguardian.com",
+        "victoria-bekiempis"
+    ],
+    "date_download": "2023-02-20 18:31:10+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 17:37:34",
+    "description": "Reptile rescued from lake on Sunday is most likely an unwanted pet and has been taken to Bronx Zoo for rehabilitation",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2023%2Ffeb%2F20%2Falligator-brooklyn-prospect-park-lake-new-york.json",
+    "image_url": "https://i.guim.co.uk/img/media/7cc09243fbd584e3cb881c4ad1a7d972660c1c8f/80_0_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7f80460f000daeb00cddcb9d3c8d264",
+    "language": "en",
+    "localpath": null,
+    "maintext": "In a relatively unusual scene for this part of the country, a 4ft-long alligator was rescued from the famed Prospect Park Lake in New York City’s borough of Brooklyn on Sunday.\nThe itinerant crocodilian – most likely an unwanted pet – was in poor condition and described as sluggish by park officials, the local news station PIX11 reported. Authorities said the lethargic alligator might have been shocked by the cold.\n“Parks are not suitable homes for animals not indigenous to those parks – domesticated or otherwise,” the spokesperson said. “In addition to the potential danger to park-goers this could have caused, releasing non-indigenous animals or unwanted pets can lead to the elimination of native species and unhealthy water quality.”\nOfficials brought the alligator to Animal Care Centers, and it was subsequently taken to the Bronx Zoo for rehabilitation, the news station said. They believe that the alligator was probably a pet who had been abandoned by its owner in the lake, according to reports.\nIt is against the law to release animals into New York City parks. According to PIX11, city park rangers respond to approximately 500 reported “animal conditions”.\nPark-goers expressed shock over the alligator’s presence in the lake. “What? An alligator?! OK … oh, my goodness,” Vijay Jacob, a father-of-two, told the New York Post. “That’s pretty terrifying since this part is a pretty kids-dominated section of the park.”\nAnother man, who used the name Moses, told the newspaper: “If I saw that gator, I would have kicked it back in the water!” Moses also reportedly said: “You’d never expect to see something like that here. But man, I feel bad for it. It shouldn’t be in a lake. Animals are like people, you know?”\nAlligators go astray periodically in New York City. Authorities rescue a handful of alligators each year, “typically former pets that have been abandoned after having outgrown their cute phase,” the New York Times reported.\nThey are also among the most prominent New York City urban legends, with the belief persisting that they inhabit the metropolis’s sewer system. However, this myth does appear to hold some truth: on 9 February 1935, a group of teens in New York City’s East Harlem neighborhood “spied an alligator down a storm drain and then lassoed and hauled it up with a clothesline”, the Times reported.\nThe alligator nipped at the boys. They killed it with shovels.\nThis incident resulted in the headline “Alligator Found in Uptown Sewer”. New York City historian Michael Miscione told the newspaper how this might have bolstered the sewer-alligator myth.\n“The charm of the 1935 sighting was that it was discovered by young boys and was the talk of this working man’s neighborhood of East Harlem during the Great Depression,” Miscione said.",
+    "source_domain": "www.theguardian.com",
+    "title": "Alligator found in Brooklyn’s Prospect Park",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/us-news/2023/feb/20/alligator-brooklyn-prospect-park-lake-new-york"
+}

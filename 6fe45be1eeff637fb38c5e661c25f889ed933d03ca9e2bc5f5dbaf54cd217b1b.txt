@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Virginia Wallis",
+        "www.theguardian.com"
+    ],
+    "date_download": "2023-02-20 07:50:09+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 07:00:30",
+    "description": "I wonder who would have been responsible in 2003 and whether the process can be completed now",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2023%2Ffeb%2F20%2Fif-my-house-purchase-is-not-registered-at-the-land-registry-will-it-be-a-problem-when-selling.json",
+    "image_url": "https://i.guim.co.uk/img/media/9bc696376f808c4dbb5866e64eae8de41d099011/550_1466_3973_2384/master/3973.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b515e36f05cc15c3b3848883cef4f303",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Q I bought my house in 2003 and paid off the mortgage some years ago, so I own it outright. However, when I have looked at the details on the Land Registry website my purchase is not recorded.\nWould this be a problem when I come to sell? Who would have been responsible for registering my purchase in 2003? And is there a way of completing the registration now?\nFC\nA Yes, it would be a problem when you come to sell because without proof of title – which is what you get by being registered at the Land Registry – you won’t be able to prove that the house is yours to sell.\nIf your house was unregistered when you bought it – which it might have been if the person who sold it to you owned it before 1990 – whoever did your conveyancing should have made sure it became registered when you took ownership of it. If the property was already registered you would have got a transfer-of-title form as part of the documents you get when exchanging contracts with the buyer. And you would have had to get your signature on the Land Registry form witnessed.\nIf that process didn’t happen – although I suspect it did – you can still get it registered by going to the Land Registry website. The reason I suspect that your house is registered is that I think that you have looked at the property summary, which costs nothing to view (but doesn’t give the owner’s name), rather than paying £3 for a copy of the title register, which does contain the names of the owner(s) as well as things such as how much the property was last sold for and whether there is a mortgage on it.",
+    "source_domain": "www.theguardian.com",
+    "title": "If my house purchase is not registered at the Land Registry, will it be a problem when selling?",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/money/2023/feb/20/if-my-house-purchase-is-not-registered-at-the-land-registry-will-it-be-a-problem-when-selling"
+}

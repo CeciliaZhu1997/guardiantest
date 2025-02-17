@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Guardian staff",
+        "Peter Messent"
+    ],
+    "date_download": "2023-02-20 20:03:40+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 19:41:24",
+    "description": "Other lives: English teacher and deputy head who went on to supervise school improvements in Nottinghamshire",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2023%2Ffeb%2F20%2Fcarin-messent-obituary.json",
+    "image_url": "https://i.guim.co.uk/img/media/672760022bf83263713822b4a6d1ee8759e84d7d/429_82_2371_1423/master/2371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=688c7015eb772607778a575334d3ee61",
+    "language": "en",
+    "localpath": null,
+    "maintext": "My wife, Carin Messent, who has died aged 59 of a stroke, was an English teacher who rose to be head of the Carlton Academy school in Nottingham and then director of school improvement and quality assurance at the Redhill Academy Trust.\nAn inspirational presence in school, Carin left an indelible impression on those she taught and was able to talk to teenagers without condescension. Highly competent and scrupulously fair, both to staff and students, she was tremendously well liked.\nCarin was born in Bristol to Michael Davis, an engineer at Rolls-Royce, and Judy (nee Holbrook), a housewife. As a child in Yate, near Chipping Sodbury in Gloucestershire, she was fiercely independent, wandering freely, swimming confidently in rivers, playing in the woods and exploring the dangerous quarry nearby. That energy, self-determination and self-sufficiency marked her whole life.\nLeaving Chipping Sodbury school at 16, she worked as a cashier at the local branch of Barclays Bank for 18 months before beginning nurse training at Bath Royal United hospital. However, her training was ended when she embarked on a brief marriage that entailed a move to Nottingham, and following a divorce she returned to banking as a clerk with the Trustee Savings Bank.\nThere she met Steve Jones, a fellow bank employee, and was married for a second time in 1986. After taking A-levels at evening class, she read English at the University of Nottingham from 1990 until 1993. It was then that we met, and we married in 1994, following her divorce the previous year.\nCarin then became an English teacher at Wheldon school (now Carlton Academy) in Nottingham. Appointed assistant head in 2010 and deputy head in 2013, she became head in 2016. Post-retirement in 2018 she took on the part-time post of director of school improvement and quality assurance at the Redhill Academy Trust in Nottinghamshire. Carin was known for the exceptional care and support she gave to those working under her and for her ability to bring laughter into the room.\nCarin is survived by me, by two daughters, Ella, from her first marriage and Leah from her second, my two children, William and Alice, five grandchildren, Violet, Kit, Louis, Ben and Harry, and by her mother.",
+    "source_domain": "www.theguardian.com",
+    "title": "Carin Messent obituary",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/education/2023/feb/20/carin-messent-obituary"
+}

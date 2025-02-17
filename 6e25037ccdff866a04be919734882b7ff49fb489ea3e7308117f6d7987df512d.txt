@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Natasha May",
+        "www.theguardian.com",
+        "natasha-may"
+    ],
+    "date_download": "2023-02-20 20:03:39+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 19:56:57",
+    "description": "Follow live",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Flive%2F2023%2Ffeb%2F21%2Faustralia-news-live-interest-rates-reserve-bank-poll-ndis-health-housing-economy-albanese-dutton-greens.json",
+    "image_url": "https://i.guim.co.uk/img/media/bf4624d5379fdd99db1e7ec25d279a9cef3e5f46/0_170_4976_2987/master/4976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1c9b50fc0e2307d29ce48260ca11694d",
+    "language": "en",
+    "localpath": null,
+    "maintext": "An Indigenous voice to parliament and crime gripping remote communities will be in focus as Anthony Albanese takes his cabinet to Western Australia, Australian Associated Press reports.\nThe prime minister and his senior ministers will meet in Port Hedland today, with the WA premier, Mark McGowan, to give an address.\nAfterwards Albanese and his cabinet will meet about 150 Indigenous and other community leaders, amid criticism from the Coalition over Labor’s decision to scrap the cashless debit card.\nThe card, which was abolished in September, managed welfare payments for recipients in a bid to reduce the amount being spent on alcohol.\nRegional communities including Laverton and Leonora in the state’s Goldfields are experiencing a spike in youth crime.\nOpposition leader Peter Dutton, who is also visiting the crime-hit towns this week, said the decision to dump the controversial income management program had resulted in the “rivers of grog” reopening and a “step-up” in violence.\nWelcome\nGood morning and welcome to our rolling coverage of the day’s news. I’m Martin Farrer, bringing you the best of the breaking stories this morning before my colleague Natasha May takes the controls.\nA majority of voters believe the Reserve Bank of Australia has overreacted in jacking up interest rates to tame inflation, and more than 70% say the Albanese government has to to share some or a lot of the blame, according to the latest Guardian Essential poll. But it’s not all bad news for the prime minister, with Labor thought more likely to bring down the cost of living, improve public services and manage climate change. There will be more detail on how the RBA arrived at its latest decision when the minutes of its last meeting are published today.\nA class action will be launched within weeks by over-65s who are seeking compensation for a decade of lower-quality disability support, potentially adding millions to the annual cost of the NDIS. Helen Bonynge, the proposed lead plaintiff in the NDIS class action, describes in today’s episode of Full Story how being deprived of help changed her life, while our political correspondent Paul Karp breaks down the legal arguments behind the case and what it means for the scheme.\nPolice in Papua New Guinea have launched a rescue operation to find an Australian professor and three local researchers who were taken hostage in the country’s remote highlands, the nation’s police commissioner has announced overnight. An armed gang had demanded a ransom for the captives, David Manning said, describing the gunmen as “opportunists” and the situation as “delicate”. The professor, whom we have chosen not to name, was taken hostage on Sunday.",
+    "source_domain": "www.theguardian.com",
+    "title": "Australia news live: voters pointing rates blame at government, PNG police hunt for kidnapped professor",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/australia-news/live/2023/feb/21/australia-news-live-interest-rates-reserve-bank-poll-ndis-health-housing-economy-albanese-dutton-greens"
+}

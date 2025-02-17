@@ -1,0 +1,19 @@
+{
+    "authors": [
+        "Stephanie Windeler"
+    ],
+    "date_download": "2023-02-20 13:56:15+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 12:49:55",
+    "description": "Officials declared a 180-day state of calamity for six cities, and some cities cancelled their carnival festivities",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fvideo%2F2023%2Ffeb%2F20%2Fdeadly-flooding-and-landslides-in-brazil-sao-paulo-state-video.json",
+    "image_url": "https://i.guim.co.uk/img/media/87e0e8484560c0f117e8e89ee4f6cf9839e4ca41/43_0_1914_1149/master/1914.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845c65c485f3e2b3123c44855acfb527",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Heavy rain in coastal areas of Brazil’s south-east have caused flooding and landslides that have killed 36 people and displaced hundreds of others. Officials declared a 180-day state of calamity for six cities, and some cities cancelled their carnival festivities, with more rain forecast\nFlooding and landslides kill dozens in São Paulo state",
+    "source_domain": "www.theguardian.com",
+    "title": "Deadly flooding and landslides in Brazil's São Paulo state - video",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/world/video/2023/feb/20/deadly-flooding-and-landslides-in-brazil-sao-paulo-state-video"
+}

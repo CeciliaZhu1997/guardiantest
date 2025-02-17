@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Ruth Michaelson",
+        "www.theguardian.com",
+        "ruth-michaelson"
+    ],
+    "date_download": "2023-02-20 17:59:04+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 17:43:58",
+    "description": "Tremor shakes southern province of Hatay, which was worst-affected region in quake two weeks ago",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F20%2Fturkey-new-6-point-4-magnitude-earthquake-hatay.json",
+    "image_url": "https://i.guim.co.uk/img/media/2ac56693d8c777d4abc4b3807a74e9293aea8de5/0_182_4916_2949/master/4916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa986c24590d22552bcce88c15bd6202",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A powerful 6.4 magnitude earthquake has hit Turkey’s southern province of Hatay, terrifying those left in a region devastated by powerful twin earthquakes two weeks earlier.\nThe quake, almost as powerful as the initial 7.8 and 7.5 magnitude earthquakes which tore a path of destruction through southern Turkey and northern Syria on 6 February threatened yet more devastation in a region that had seen many people flee their destroyed homes for the safety of other towns and villages outside of the earthquake zone.\nThe Turkish disaster response agency AFAD said the latest tremor hit the town of Defne at 8.04pm local time. It was strongly felt in Antakya and Adana, 120 miles (200km) to the north, and across the border in Syria.\n“It was the first day we’d decided to stay in our house as it’s just one floor, and I was using our heater to try and stay warm, demonstrating what to do in case another earthquake happened,” said Ata Koşar in the Hatay town of Ekinci, who lost his brother, his sister-in-law and his nephew when their nearby luxury apartment block collapsed during the first earthquake.\n“I was laying on the floor, and as I was laying there another earthquake happened. We heard what sounded like more buildings collapsing again, and more damage to our house,” he said mournfully.\nWitnesses said rescue teams were checking people were unharmed.\nMuna al-Omar, a resident of Antakya, said she was in a tent in a park when the earthquake hit. “I thought the earth was going to split open under my feet,” she said, crying as she held her seven-year-old son in her arms.\n“Is there going to be another aftershock?” she asked.\nMore details soon …\nAgence France-Presse and Reuters contributed to this report",
+    "source_domain": "www.theguardian.com",
+    "title": "Turkey hit by new 6.4-magnitude earthquake",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/world/2023/feb/20/turkey-new-6-point-4-magnitude-earthquake-hatay"
+}

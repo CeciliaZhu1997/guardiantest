@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Phuong Le",
+        "www.theguardian.com",
+        "phuong-le"
+    ],
+    "date_download": "2023-02-20 13:38:02+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 13:00:37",
+    "description": "A frank, affecting documentary sees a Taiwanese film-maker return home to probe the differences between himself and his devout Taoist parents",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2023%2Ffeb%2F20%2Fa-holy-family-review-honest-truths-abound-in-study-of-family-driven-apart-by-religion.json",
+    "image_url": "https://i.guim.co.uk/img/media/7975f2395b0d9ae1233e081e633547f4b92334a1/0_53_800_480/master/800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c17989a55622351e92146b8aa1fc4ab3",
+    "language": "en",
+    "localpath": null,
+    "maintext": "More than two decades after leaving his family home in rural Taiwan, documentary film-maker Elvis A-Liang Lu returns, this time with a camera. One can sense the reason why he left in the first place. Though modest in stature, the house shared by Lu’s older brother and his parents boasts an imposing shrine dedicated to Taoist gods: his ageing mother climbs the stairs every day to pray to the deities, and his psychic brother receives visitors who seek guidance from above. Similarly preoccupied by superstitions is his father, a gambling addict who has squandered the family’s savings on the lottery.\nWhat begins as a thorny portrait of intergenerational grievances gradually arrives at a profoundly moving note of reconciliation, the camera simultaneously functioning as the agitator and the mediator. Lu frequently poses startlingly frank questions to his family, asking his mother, for example, why she has never visited him in Taipei. Such bluntness is perhaps only made possible by the act of filming, which teases out sentiments that are generally left unsaid. Over the course of the documentary, Lu’s lack of sympathy for his family’s beliefs softens into a compassionate acceptance of his parents’ flaws. Filial love, like any other relationship, is all about compromises.\nIntimate and personal, A Holy Family also touches on the hardships of farm life. In spite of his brother’s communion with the gods, his tomato crops were wiped out by a disastrous flood. Above all, this bittersweet film astutely evokes the guilt of the ones who leave, alongside the quietly devastating realisation that the time we have with our parents is never as long as we might think.",
+    "source_domain": "www.theguardian.com",
+    "title": "A Holy Family review - honest truths abound in study of family driven apart by religion",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/film/2023/feb/20/a-holy-family-review-honest-truths-abound-in-study-of-family-driven-apart-by-religion"
+}

@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Guardian staff",
+        "Australian Associated Press"
+    ],
+    "date_download": "2023-02-20 06:16:29+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 04:58:38",
+    "description": "‘We were fighting it and it did a U-turn and slammed into the engine,’ said the skipper of the damaged vessel after being towed to safety",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Ffeb%2F20%2Faustralian-crew-rescued-after-70kg-black-marlin-punched-a-hole-in-fishing-boat-engine.json",
+    "image_url": "https://i.guim.co.uk/img/media/f86241a74af076d5dcbff4a44fc5e83af621b874/1250_414_1599_959/master/1599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45f0f3016423dbdbad54a4395c8c7b17",
+    "language": "en",
+    "localpath": null,
+    "maintext": "A fishing boat and its crew had to be rescued after it lost a battle with a feisty black marlin more than 30km off the New South Wales south coast.\nThe 6.7m boat hooked the 70kg marlin at around 1pm on Sunday.\n“We were fighting it and it did a U-turn and slammed into the engine,” the skipper of the damaged vessel said.\nThe marlin punched a hole in the engine’s canvas cover and cowling, disabling the power.\nSign up for Guardian Australia’s free morning and afternoon email newsletters for your daily news roundup\n“It was a freaky thing,” the skipper said, according to Marine Rescue NSW which went to the aid of the boat.\nThe rescue vessel, Merimbula 30, undertook a three-and-a-half hour operation to reach the damaged boat and tow it back to the Kianinny boat ramp at Tathra.\nThe Marine Rescue Merimbula unit commander, Bill Blakeman, said that in his 15 years of volunteer service on the water he’s never responded to an incident involving a marlin damaging a vessel.\n“I’ve had a couple of shark-related incidents over the years where they attacked propellers, but never a marlin disabling a vessel,” he said in a statement.",
+    "source_domain": "www.theguardian.com",
+    "title": "Australian crew rescued after 70kg black marlin punched a hole in fishing boat engine",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/australia-news/2023/feb/20/australian-crew-rescued-after-70kg-black-marlin-punched-a-hole-in-fishing-boat-engine"
+}

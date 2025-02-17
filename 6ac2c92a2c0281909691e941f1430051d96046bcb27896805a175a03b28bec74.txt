@@ -1,0 +1,20 @@
+{
+    "authors": [
+        "Photograph: Sarah Lee",
+        "The Guardian"
+    ],
+    "date_download": "2023-02-20 10:53:51+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 10:24:53",
+    "description": "Guardian photographer Sarah Lee enjoyed backstage access to the biggest night in British cinema, at the Southbank Centre’s Royal Festival Hall",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Ffilm%2Fgallery%2F2023%2Ffeb%2F20%2Fbehind-the-scenes-at-the-2023-baftas-in-pictures.json",
+    "image_url": "https://i.guim.co.uk/img/media/535aa3460a6ae0b9fd3066b8427939cd1a4e7a5b/0_237_8368_5019/master/8368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14059c4ec4e2c0eb3ca927bd44cc54cd",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Guardian photographer Sarah Lee enjoyed backstage access to the biggest night in British cinema, at the Southbank Centre’s Royal Festival Hall",
+    "source_domain": "www.theguardian.com",
+    "title": "Behind the scenes at the 2023 Baftas - in pictures",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/film/gallery/2023/feb/20/behind-the-scenes-at-the-2023-baftas-in-pictures"
+}

@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Guardian sport",
+        "www.theguardian.com",
+        "guardian-sport"
+    ],
+    "date_download": "2023-02-20 14:40:17+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 14:02:05",
+    "description": "Anderson Comas, a minor leaguer in the Chicago White Sox organization, has come out as gay",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2023%2Ffeb%2F20%2Ffight-for-your-dreams-white-sox-minor-leaguer-anderson-comas-comes-out-as-gay.json",
+    "image_url": "https://i.guim.co.uk/img/media/664e9c7acb91eca09c41139d754a8af797348420/0_2_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a984b875b0ece454efed62ff1bcd42ec",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Anderson Comas, a minor leaguer in the Chicago White Sox organization, has come out as gay.\nThe 23-year-old Comas, who is from the Dominican Republic, made the announcement in an Instagram post.\n“This may be my most personal thing I ever share and it’s that I’m proudly and happily part of the LGTBQ+ community,” Comas wrote. “I’m also a human with a great soul. I’m respectful, I’m a lover, I love my family and friends and that’s what really matters … Please don’t listen to those stupid things that people say about us. Fight for your dreams, believe in yourself and go for it.”\nComas signed with Chicago as a free agent in July 2016. He started off as an outfielder, but he was converted to a pitcher before last season.\nChris Getz, an assistant general manager for the White Sox in charge of player development, said Comas told the organization last year.\n“With his social media post today, we are all so proud of Anderson and that he is comfortable sharing such an important personal part of his life so openly,” Getz said in a statement.\nTwo other minor league players, Bryan Ruby and Solomon Bates, have come out since 2021. However, no major leaguer has come out publicly during his playing career. Many teammates of Glenn Burke, who played for the Los Angeles Dodgers and the Oakland A’s in the 1970s, knew he was gay. He died in 1995, and the Dodgers later acknowledged they had mistreated him during his career. Billy Bean, who played for several major league teams in the 1980s and 90s came out after retiring. In 2014, he became MLB’s ambassador for inclusion.",
+    "source_domain": "www.theguardian.com",
+    "title": "‘Fight for your dreams’: White Sox minor leaguer Anderson Comas comes out as gay",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/sport/2023/feb/20/fight-for-your-dreams-white-sox-minor-leaguer-anderson-comas-comes-out-as-gay"
+}

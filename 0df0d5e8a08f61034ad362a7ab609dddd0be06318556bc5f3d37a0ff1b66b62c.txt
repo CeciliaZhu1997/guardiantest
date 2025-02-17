@@ -1,0 +1,21 @@
+{
+    "authors": [
+        "Josh Taylor",
+        "www.theguardian.com",
+        "josh-taylor"
+    ],
+    "date_download": "2023-02-20 03:09:56+00:00",
+    "date_modify": null,
+    "date_publish": "2023-02-20 02:21:24",
+    "description": "Mark Zuckerberg follows Elon Musk’s lead in introducing fee for blue ticks, while Twitter to restrict 2FA via SMS to paid users",
+    "filename": "https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Ffeb%2F20%2Ffacebook-instagram-paid-meta-verification-twitter-charge-2fa-two-factor-authentication-via-sms.json",
+    "image_url": "https://i.guim.co.uk/img/media/636818d528e42632dde2737744db8230e7729cc1/0_0_4663_2799/master/4663.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d2ca69a366ed42ccf07df599d970826",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Facebook and Instagram users will soon need to pay to be verified on the social media platforms, as Meta follows in the footsteps of rival platform Twitter.\nMark Zuckerberg, Meta’s chief executive, announced in a Facebook post on Sunday that the service would first roll out in Australia and New Zealand later this week.\nThe company said it would cost US$11.99 a month on web or US$14.99 on iOS and Android (or, in Australia, $19.99 on web or $24.99 on iOS and Android).\nZuckerberg said in addition to a blue badge the service would offer “extra impersonation protection”, improved reach for verified users and direct access to customer support.\nIn a blog post, Meta said it would rely on government ID documents to prove the identity of verified accounts, to avoid the embarrassment of accounts impersonating people and brands – as happened when Twitter initially rolled out its paid verification service.\nAccounts must also have a posting history and users must be at least 18 years old.\nThe service would not be available to businesses at this stage, Meta said.\nThe increased visibility of posts from verified users would “depend on a subscriber’s existing audience size and the topic of their posts”, the company said. Those with smaller audiences might see more of an impact.\nSign up for Guardian Australia’s free morning and afternoonemail newsletters for your daily news roundup\nThe company said it would also offer “exclusive stickers” on Facebook and Instagram stories and Facebook reels.\nMeta cut 11,000 staff in November – the equivalent of 13% of its workforce – amid falling ad revenue and economic downturn. The company’s share price fell by more than 70% in 2022 before a rebound and in July it reported its first ever fall in revenue.\nTwitter’s CEO, Elon Musk, responded to the news in a tweet saying it was “inevitable” Meta would follow Twitter.\nTwitter restricts SMS two-factor authentication to paid accounts\nSeparately, Twitter announced on Friday it would provide SMS-based two-factor authentication only to users who are subscribed to the US$8-a-month ($11.65) Twitter Blue service from 20 March.\nThe company currently provides free two-factor authentication through third-party apps and a security key, which are considered more secure than SMS-based systems. If non-subscriber accounts that use SMS authentication do not switch before the deadline, Twitter said it would disable two-factor authentication for that account.\nThe move has sparked concerns that it could lead to widespread hacks on accounts next month if they fail to switch over.\nTwitter’s last transparency report prior to Musk’s takeover shows that as of December 2021, although just 2.6% of active Twitter accounts use two-factor authentication, 74.4% of those use SMS as their method of authentication.",
+    "source_domain": "www.theguardian.com",
+    "title": "Facebook and Instagram to get paid verification as Twitter charges for two-factor SMS authentication",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://www.theguardian.com/technology/2023/feb/20/facebook-instagram-paid-meta-verification-twitter-charge-2fa-two-factor-authentication-via-sms"
+}
